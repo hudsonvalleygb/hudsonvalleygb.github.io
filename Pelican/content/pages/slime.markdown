@@ -1,6 +1,6 @@
 title: Science of Slime!
 slug: slime
-sort_order: 009
+sort_order: 010
 gallery: {photo}gallery/slime
 <!-- status: draft -->
 
