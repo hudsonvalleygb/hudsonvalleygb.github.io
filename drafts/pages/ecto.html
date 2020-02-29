@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ecto-1G</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/e156bccece.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="/theme/css/stylesheet.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+</head>
+<body>
+    <div class="wrapper">
+        <nav id="sidebar">
+            <div id="dismiss"><i class="fas fa-angle-double-left"></i></div>
+            <div class="sidebar-header">
+                <h3>HVGB Menu</h3>
+            </div>
+            <ul class="list-unstyled components">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/pages/about.html">About Us</a></li>
+                        <li><a href="/pages/calendar.html">Calendar</a></li>
+                        <li><a href="/pages/gallery.html">Gallery</a></li>
+                        <li><a href="/pages/partners.html">Our Partners</a></li>
+                        <li><a href="/pages/slime.html">Science of Slime!</a></li>
+                        <li><a href="/pages/contact.html">Contact Us</a></li>
+                        <li><a href="https://www.storefrontier.com/hudsonvalleyghostbusters?type&fbclid=IwAR2SpHuv9f6i3nAT1836XsrwDYacWV8ptv6n2F5K93TdygCDdr0bqHdhM8w" target="_blank">Store</a></li>
+                        <li><a href="https://www.facebook.com/HV.Ghostbusters/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/hudsonvalley_ghostbusters/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="https://twitter.com/HVGhostbusters" target="_blank"><i class="fab fa-twitter"></i></a></li>
+            </ul>
+        </nav>
+        <div id="content">
+            <nav class="navbar navbar-expand-lg">
+                <div class="container-fluid">
+                    <button type="button" id="sidebarCollapse" class="btn btn-info">
+                        <i class="fas fa-bars"></i>
+                        <span>Menu</span>
+                    </button>
+                </div>
+            </nav>
+            <div class="row">
+                <div class="col-lg-12" id="caution_header"><p></p></div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <a href="/">
+                        <img src="/theme/images/HVGB_logo_transparent.png" style="width: 60%;">
+                    </a>
+                </div>
+                <div class="col-md-9">
+                    <div class="row" id="title" style="position: bottom;">
+                        <p>Hudson Valley Ghostbusters</p>
+                    </div>
+                    <div class="row">
+                        <p>Hudson Valley Ghostbusters, Inc, is a 501(c)(3) non-profit committed to helping our local community and having some fun along the way</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="slime_header">
+                <p><br/><br/><br/></p>
+            </div>
+<div class="row">
+    <div class="col-md-12">
+            <h1>Ecto-1G</h1>
+                <label>Posted on <strong>2020-02-20 00:00:00-05:00</strong></label>
+        
+    </div>
+</div>
+
+            <div class="row" id="caution_footer"><p></p></div>
+        </div>
+    </div>
+    <div class="overlay"></div>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+            $(document).ready(function () {
+                $("#sidebar").mCustomScrollbar({
+                    theme: "minimal"
+                });
+
+                $('#dismiss, .overlay').on('click', function () {
+                    // hide sidebar
+                    $('#sidebar').removeClass('active');
+                    // hide overlay
+                    $('.overlay').removeClass('active');
+                });
+
+                $('#sidebarCollapse').on('click', function () {
+                    // open sidebar
+                    $('#sidebar').addClass('active');
+                    // fade in the overlay
+                    $('.overlay').addClass('active');
+                    $('.collapse.in').toggleClass('in');
+                });
+            });
+    </script>
+</body>
+</html>

@@ -1,0 +1,197 @@
+.wrapper {
+    display: block;
+}
+#sidebar {
+    /* min-width: 250px;
+    max-width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999; */
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: -250px;
+    height: 100vh;
+    z-index: 999;
+    background: #36454f;
+    color: white;
+    transition: all 0.3s;
+    overflow-y: scroll;
+}
+#sidebar.active {
+    left: 0;
+}
+#content {
+    padding-left: 50;
+    /* margin-left: 50; */
+}
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+        height: 100vh;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    #caution_header {
+        background-repeat: repeat-x;
+        background-size: 50%;
+        background-image: url("../images/caution_expanded.png")
+    }
+    #caution_footer {
+        background-size: 50%;
+        background-repeat: repeat-x;
+        background-image: url("../images/caution_expanded.png")
+    }
+}
+.overlay {
+    display: none;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 998;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+.overlay.active {
+    display: block;
+    background: rgba(0, 0, 0, 0.7);
+    opacity: 1;
+}
+#dismiss {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+body {
+    background-color: #36454f;
+}
+p {
+    color: white;
+}
+#title {
+    font-size: 36pt;
+}
+#slime_header {
+    background-image: url("../images/slime_1_transparent_take_2.png");
+    background-size: 10%;
+    background-repeat: repeat-x;
+}
+#caution_header {
+    background-image: url("../images/caution_banner_2.png");
+    background-size: 80%;
+}
+#caution_footer {
+    background-image: url("../images/caution_banner_2.png");
+    background-size: 75%;
+}
+li {
+    color: white;
+}
+li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+li a:hover{
+    background-color: green;
+    color: white;
+}
+.active{
+    background-color: green;
+    color: white;
+}
+/* ul {
+    list-style-type: none;
+    margin: 5;
+    padding: 0;
+    width: 9%;
+    height: 100%;
+    position: fixed;
+    overflow: none;
+    background-color: black;
+}
+li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+li a:hover{
+    background-color: #4CAF50;
+    color: white;
+}
+.active{
+    background-color: #4CAF50;
+    color: white;
+} */
+.btn-info{
+    background-color: green
+}
+.btn-info:hover {
+    background-color: green;
+}
+h1 {
+    color: white;
+}
+#content {
+    width: 100%;
+    padding: 20px;
+}
+h2{
+    color: white;
+}
+h3 {
+    color: white;
+}
+h5 {
+    color: white;
+}
+.bio-col {
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0px;
+    align-items: center;
+}
+@media screen and (max-width: 650px) {
+    .bio-col{
+        width: 100%;
+        display: block;
+    }
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #36454f;
+    align-items: center;
+}
+.bio-container {
+    padding: 0 16px;
+    align-items: center;
+}
+.bio-container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.bio-text {
+    text-align: center;
+}
+.nametag {
+    width: 70%;
+    align-content: center;
+}
+.headshot {
+    width: 100%;
+}
+#slime-science {
+    width: 100%;
+}

@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }}{% endblock %}
+
+{% block content %}
+{% if page.title == 'Blog' %}
+<div class="row">
+    <div class="col-md-8">
+        {% for article in articles %}
+            <h2><a href="/{{ article.slug }}.html">{{ article.title }}</a></h2>         <label>Posted on <strong>{{ article.date }}</strong></label>
+            {{ article.content|truncate(110) }}
+        {% else %}  
+            No posts yet!
+        {% endfor %}
+    </div>
+</div>
+{% else %}
+<div class="row">
+    <div class="col-md-12">
+        {% if page.title != 'Home' %}
+            <h1>{{ page.title }}</h1>
+            {% if page.date %}
+                <label>Posted on <strong>{{ page.date }}</strong></label>
+            {% endif %}
+        {% endif %}
+        {{ page.content }}
+    </div>
+</div>
+{% endif %}
+
+    {% if page.photo_gallery and page.title != 'Home' and page.title != 'About Us' %}
+        <div class="gallery">
+    		{% for title, gallery in page.photo_gallery %}
+    			<h1>{{ title }}</h1>
+				{% for name, photo, thumb, exif, caption in gallery %}
+					<a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
+				{% endfor %}
+    		{% endfor %}
+        </div>
+    {% elif page.photo_gallery and page.title == 'About Us' %}
+        <div class="gallery">
+        <div class="row">
+            {% for title, gallery in page.photo_gallery %}
+                {% for name, photo, thumb, exif, caption in gallery %}
+                    <div class="column bio-col">
+                        <div class="card">
+                            <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" caption="{{ exif }}"><img src="{{ SITEURL }}/{{ photo }}" class="headshot"></a>
+                            <img src="{{ SITEURL }}/{{ caption }}" class="nametag">
+                            <p class="bio-text">{{ exif }}</p>
+                        </div>
+                    </div>
+                    {% if loop.index % 3 == 0 %}
+                        </div>
+                        <div class="row">
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+
+    {% elif page.photo_gallery and page.title == 'Home' %}
+        {% for title, gallery in page.photo_gallery %}
+            <div class="row">
+                <div class="col-sm-3"></div>
+                <div class="col-sm-6">
+            <h1>{{ title }}</h1>
+            <div id="carousel-{{ loop.index }}" class="carousel slide" data-ride="carousel" data-interval="4000">
+                <ol class="carousel-indicators">
+                {% for i in range(0, gallery|length) %}
+                    <li data-target="#carousel-{{ loop.index }}" data-slide-to="{{ i }}" {% if i==0 %} class="active" {% endif %}></li>
+                {% endfor %}
+                </ol>
+                <div class="carousel-inner">
+                    {% for name, photo, thumb, exif, caption in gallery %}
+                        {% if loop.first %}
+                            <div class="carousel-item active">
+                        {% else %}
+                            <div class="carousel-item">
+                        {% endif %}
+                        <img src="{{ SITEURL }}/{{ photo }}" exif="{{ exif }}" alt="{{ caption }}" class='d-block w-100'>
+                        <div class="carousel-caption">
+                            <h5>{{ caption }}</h5>
+                        </div> <!-- carousel-caption -->
+                    </div> <!-- item -->
+                    {% endfor %}
+                </div> <!-- carousel-inner -->
+            <a class="carousel-control-prev" href="#carousel-{{ loop.index }}" data-slide="prev" role="button">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carousel-{{ loop.index }}" data-slide="next" role="button">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div> <!-- closes carousel-{{ loop.index }} -->
+        </div></div>
+    {% endfor %}
+    {% endif %}
+{% endblock %}

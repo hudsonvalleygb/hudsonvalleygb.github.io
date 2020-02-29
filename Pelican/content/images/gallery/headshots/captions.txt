@@ -1,0 +1,5 @@
+natale.jpg: photos/gallery/nametags/natalet.jpg
+oehl_2.jpg: photos/gallery/nametags/oehlt.jpg
+0001_sobel_and_bennett.jpg: photos/gallery/nametags/sobel_bennettt.jpg
+002_rosenthal.jpg: photos/gallery/nametags/rosenthalt.jpg
+zzz_spud.jpg: photos/gallery/nametags/slimert.jpg
