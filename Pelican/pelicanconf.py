@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'HVGB'
 SITENAME = 'Hudson Valley Ghostbusters'
-SITEURL = ''
+SITEURL = 'hudsonvalleygb.github.io'
 
 PATH = 'content'
 
