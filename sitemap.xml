@@ -4,98 +4,98 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>hudsonvalleygb.github.io/</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/tags.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/tags.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/categories.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/categories.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/authors.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/authors.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/archives.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/archives.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/pages/about.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/pages/about.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/pages/calendar.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/pages/calendar.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/pages/gallery.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/pages/gallery.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/pages/partners.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/pages/partners.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/pages/press.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/pages/press.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/pages/slime.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/pages/slime.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/pages/contact.html</loc>
-<lastmod>2020-03-01T15:49:58-00:00</lastmod>
+<loc>hudsonvalleyghostbusters.org/pages/contact.html</loc>
+<lastmod>2020-03-01T15:59:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>hudsonvalleygb.github.io/hello.html</loc>
+<loc>hudsonvalleyghostbusters.org/hello.html</loc>
 <lastmod>2020-02-29T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
