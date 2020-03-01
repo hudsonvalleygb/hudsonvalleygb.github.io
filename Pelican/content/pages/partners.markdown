@@ -1,6 +1,7 @@
 title: Our Partners
 slug: partners
 sort_order: 008
+summary: A list of charities the Hudson Valley Ghostbusters have partnered with
 
 ###Charities We Work With:###
 (All entries are links to our partners)

@@ -10,6 +10,8 @@
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/magnific-popup.css">
     {% endif %}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+    {% block head %}
+    {% endblock %}
 </head>
 <body>
     <div class="wrapper">
@@ -76,7 +78,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     {% if (article and article.photo_gallery) or (page and page.photo_gallery and page.title != "Home") or (articles_page and articles_page.object_list[0].photo_gallery) %}
         <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <!-- Magnific Popup core JS file -->
         <script src="{{ SITEURL }}/theme/js/jquery.magnific-popup.js"></script>
         <script>

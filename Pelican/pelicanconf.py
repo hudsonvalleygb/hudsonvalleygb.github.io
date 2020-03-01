@@ -6,6 +6,7 @@ AUTHOR = 'HVGB'
 SITENAME = 'Hudson Valley Ghostbusters'
 SITEURL = 'hudsonvalleygb.github.io'
 # SITEURL = ''
+SITE_SUMMARY = 'Hudson Valley Ghostbusters, a 501(c)(3) non-profit, dedicated to having fun while doing good'
 
 PATH = 'content'
 
@@ -37,8 +38,22 @@ SOCIAL = (('facebook', 'https://www.facebook.com/HV.Ghostbusters/'),
           ('twitter', 'https://twitter.com/HVGhostbusters'),)
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['photos']
+PLUGINS = ['photos', 'sitemap']
 PHOTO_LIBRARY = "/Users/pnatale/repos/hudsonvalleygb.github.io/Pelican/content/images"
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.3,
+        'indexes': 0.5,
+        'pages': 0.7
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    },
+    'exclude': ['tag/', 'category/', 'author/']
+}
 
 DEFAULT_PAGINATION = False
 DISPLAY_CATEGORIES_ON_MENU = False

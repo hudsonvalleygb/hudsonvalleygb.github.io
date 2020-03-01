@@ -1,7 +1,15 @@
 {% extends "base.html" %}
 
-{% block title %}{{ page.title }}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ page.title }}{% endblock %}
 
+{% block head %}
+    <link rel="canonical" href="{{ SITEURL }}/{{ page.url }}"/>
+    {% if page.summary %}
+        <meta name="description" content="{{ page.summary|striptags }}"/>
+    {% else %}
+        <meta name="description" content="{{ SITE_SUMMARY }}"/>
+    {% endif %}
+{% endblock %}
 {% block content %}
 {% if page.title == 'Blog' %}
 <div class="row">
