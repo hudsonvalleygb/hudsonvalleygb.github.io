@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'HVGB'
 SITENAME = 'Hudson Valley Ghostbusters'
-SITEURL = 'hudsonvalleyghostbusters.org'
+SITEURL = 'http://hudsonvalleyghostbusters.org'
 # SITEURL = 'hudsonvalleygb.github.io'
 # SITEURL = ''
 SITE_SUMMARY = 'Hudson Valley Ghostbusters, a 501(c)(3) non-profit, dedicated to having fun while doing good'
