@@ -1,5 +1,6 @@
 title: Calendar
 slug: calendar
+date: 2020-02-29
 summary: Calendar of appearances for Hudson Valley Ghostbusters
 sort_order: 004
 

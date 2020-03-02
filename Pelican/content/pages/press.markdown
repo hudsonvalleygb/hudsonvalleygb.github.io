@@ -1,6 +1,7 @@
 title: Press
 slug: press
 sort_order: 009
+date: 2020-02-29
 summary: News articles and galleries featuring the Hudson Valley Ghostbusters
 
 * [Fandom sparks clubs for those who love their movies, television shows | The Poughkeepsie Journal](https://www.poughkeepsiejournal.com/story/life/2018/06/21/hudson-valley-clubs-generate-fandom/714148002/){target="_blank}
