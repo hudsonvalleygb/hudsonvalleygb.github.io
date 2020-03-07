@@ -22,6 +22,31 @@
         {% endfor %}
     </div>
 </div>
+{% elif page.title == 'Contact Us' %}
+    <div class="row">
+        <div class="col-md-12">
+            <h1>{{ page.title }}</h1>
+            {{ page.content }}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8">
+            <form action="http://getsimpleform.com/messages/ajax?form_api_token={{ API_KEY }}" method="post" id="contact">
+                <label for="first_name">First Name</label>
+                <input type="text" name="first_name" required/>
+                <label for="last_name">Last Name </label>
+                <input type="text" name="last_name" required/>
+                <label for="email">Email</label>
+                <input type="text" name="email" id="email" required/>
+                <label for="subject">Subject</label>
+                <input type="text" name="subject" required/>
+                <label for="message">Message</label>
+                <textarea name="message" required></textarea>
+                <input type="submit" value="Submit" class="btn btn-info"/>
+            </form>
+            <p></p>
+        </div>
+    </div>
 {% else %}
 <div class="row">
     <div class="col-md-12">
@@ -100,5 +125,29 @@
         </div> <!-- closes carousel-{{ loop.index }} -->
         </div></div>
     {% endfor %}
+    {% endif %}
+    {% endblock %}
+    {% block javascript %}
+    {% if page.title == 'Contact Us' %}
+        <!-- This is to AJAX POST the form to getsimpleform.com's ajax endpoint -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            $("#contact").submit(function(e) {
+                e.preventDefault();
+                var form = $(this);
+                var url = form.attr('action');
+                console.log(url);
+                var form_data = form.serializeArray();
+                $.ajax({
+                    dataType: 'jsonp',
+                    type: "POST",
+                    url: url,
+                    data: form_data,
+                    success: function(data) {
+                        window.location.href = "{{ SITEURL }}/pages/thanks.html";
+                    }
+                });
+            });
+        </script>
     {% endif %}
 {% endblock %}

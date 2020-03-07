@@ -2,13 +2,6 @@
     display: block;
 }
 #sidebar {
-    /* min-width: 250px;
-    max-width: 250px;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 9999; */
     width: 250px;
     position: fixed;
     top: 0;
@@ -25,7 +18,6 @@
 }
 #content {
     padding-left: 50;
-    /* margin-left: 50; */
 }
 @media (max-width: 768px) {
     #sidebar {
@@ -83,7 +75,7 @@ p {
 }
 #slime_header {
     background-image: url("../images/slime_1_transparent_take_2.png");
-    background-size: 10%;
+    background-size: contain;
     background-repeat: repeat-x;
 }
 #caution_header {
@@ -110,31 +102,8 @@ li a:hover{
     background-color: green;
     color: white;
 }
-/* ul {
-    list-style-type: none;
-    margin: 5;
-    padding: 0;
-    width: 9%;
-    height: 100%;
-    position: fixed;
-    overflow: none;
-    background-color: black;
-}
-li a{
-    display: block;
-    text-decoration: none;
-    color: white;
-}
-li a:hover{
-    background-color: #4CAF50;
-    color: white;
-}
-.active{
-    background-color: #4CAF50;
-    color: white;
-} */
 .btn-info{
-    background-color: green
+    background-color: green;
 }
 .btn-info:hover {
     background-color: green;
@@ -194,4 +163,31 @@ h5 {
 }
 #slime-science {
     width: 100%;
+}
+label {
+    color: white;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid green;
+    border-radius: 4px;
+    outline: none
+}
+input[type=text]:focus {
+    border: 4px solid chartreuse;
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    resize: none;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid green;
+    border-radius: 4px;
+    outline: none;
+}
+textarea:focus {
+    border: 4px solid chartreuse;
 }

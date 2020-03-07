@@ -62,13 +62,30 @@
             <div class="row" id="slime_header">
                 <p><br/><br/><br/></p>
             </div>
-<div class="row">
-    <div class="col-md-12">
+    <div class="row">
+        <div class="col-md-12">
             <h1>Contact Us</h1>
-        <p>Are you interested in becoming a member of the Hudson Valley Ghostbusters, or booking us for your event? We do parties, too!</p>
-<p>Email us at <a href="mailto:hudsonvalleygb@gmail.com">hudsonvalleygb{at}gmail{dot}com</a></p>
+            <p>Are you interested in becoming a member of the Hudson Valley Ghostbusters, or booking us for your event? We do parties, too!</p>
+        </div>
     </div>
-</div>
+    <div class="row">
+        <div class="col-md-8">
+            <form action="http://getsimpleform.com/messages/ajax?form_api_token=3b974f3ccb23633eb1dd640aae473cd0" method="post" id="contact">
+                <label for="first_name">First Name</label>
+                <input type="text" name="first_name" required/>
+                <label for="last_name">Last Name </label>
+                <input type="text" name="last_name" required/>
+                <label for="email">Email</label>
+                <input type="text" name="email" id="email" required/>
+                <label for="subject">Subject</label>
+                <input type="text" name="subject" required/>
+                <label for="message">Message</label>
+                <textarea name="message" required></textarea>
+                <input type="submit" value="Submit" class="btn btn-info"/>
+            </form>
+            <p></p>
+        </div>
+    </div>
 
             <div class="row" id="caution_footer"><p></p></div>
         </div>
@@ -77,7 +94,7 @@
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js" crossorigin="anonymous"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js" crossorigin="anonymous"></script> -->
     <script type="text/javascript">
             $(document).ready(function () {
                 $("#sidebar").mCustomScrollbar({
@@ -100,5 +117,26 @@
                 });
             });
     </script>
+        <!-- This is to AJAX POST the form to getsimpleform.com's ajax endpoint -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            $("#contact").submit(function(e) {
+                e.preventDefault();
+                var form = $(this);
+                var url = form.attr('action');
+                console.log(url);
+                var form_data = form.serializeArray();
+                $.ajax({
+                    dataType: 'jsonp',
+                    type: "POST",
+                    url: url,
+                    data: form_data,
+                    success: function(data) {
+                        window.location.href = "https://hudsonvalleyghostbusters.org/pages/thanks.html";
+                    }
+                });
+            });
+        </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js" crossorigin="anonymous"></script>
 </body>
 </html>

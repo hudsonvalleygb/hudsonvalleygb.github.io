@@ -8,6 +8,7 @@ SITEURL = 'https://hudsonvalleyghostbusters.org'
 # SITEURL = 'hudsonvalleygb.github.io'
 # SITEURL = ''
 SITE_SUMMARY = 'Hudson Valley Ghostbusters, a 501(c)(3) non-profit, dedicated to having fun while doing good'
+THEME = 'theme'
 
 PATH = 'content'
 
@@ -59,6 +60,7 @@ SITEMAP = {
 DEFAULT_PAGINATION = False
 DISPLAY_CATEGORIES_ON_MENU = False
 PAGE_ORDER_BY = "sort_order"
+API_KEY = "3b974f3ccb23633eb1dd640aae473cd0"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
