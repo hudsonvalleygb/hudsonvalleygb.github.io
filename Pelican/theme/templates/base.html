@@ -28,7 +28,9 @@
                 {% endif %}
                 {% if LINKS %}
                     {% for name, link in LINKS %}
-                        <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+                        {% if name != 'Thank You!' %}
+                            <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+                        {% endif $}
                     {% endfor %}
                 {% endif %}
                 {% if SOCIAL %}
