@@ -23,14 +23,14 @@
             <ul class="list-unstyled components">
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for p in pages %}
-                        <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                        {% if p.url != 'pages/thanks.html' %}
+                            <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                        {% endif %}
                     {% endfor %}
                 {% endif %}
                 {% if LINKS %}
                     {% for name, link in LINKS %}
-                        {% if name != 'Thank You!' %}
-                            <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
-                        {% endif %}
+                        <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
                     {% endfor %}
                 {% endif %}
                 {% if SOCIAL %}
