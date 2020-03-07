@@ -23,7 +23,7 @@
             <ul class="list-unstyled components">
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for p in pages %}
-                        {% if p.url != 'pages/thanks.html' %}
+                        {% if p.title != 'Thank You!' %}
                             <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
                         {% endif %}
                     {% endfor %}
