@@ -6,7 +6,7 @@ date: 2020-02-29
 summary: A brief look at the Hudson Valley Ghostbusters' Slime Lab
 
 ###Why Do We Make Slime?###
-The Ghostbusters are no strangers to slime. From Slimer to Vigo's river of slime under the streets of Manhattan, we deal with slime all the time. On top of our history with the stuff, slime is making a comeback as a DIY-at-home science experiment for kids. All this allows us to use our unique expertise to entertain, educate, and engage with people of all ages about the science of slime and to raise money for charity to boot.
+The Ghostbusters are no strangers to slime. From Slimer to Vigo's river of it under the streets of Manhattan, we deal with slime all the time. On top of our history with the stuff, slime is making a comeback as a DIY-at-home science experiment for kids. All this allows us to use our unique expertise to entertain, educate, and engage with people of all ages about the science of slime and to raise money for charity to boot.
 
 ###How Do You Make Slime?###
 Start with glue! The best kind is polyvinyl-acetate (PVA) washable school glue.
