@@ -69,6 +69,7 @@ body {
 }
 p {
     color: white;
+    font-size: 1.3em;
 }
 #title {
     font-size: 36pt;
@@ -190,4 +191,8 @@ textarea {
 }
 textarea:focus {
     border: 4px solid chartreuse;
+}
+h2 a {
+    color: red;
+    text-decoration: underline solid red;
 }

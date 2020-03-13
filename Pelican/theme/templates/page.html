@@ -15,7 +15,8 @@
 <div class="row">
     <div class="col-md-8">
         {% for article in articles %}
-            <h2><a href="/{{ article.slug }}.html">{{ article.title }}</a></h2>         <label>Posted on <strong>{{ article.date }}</strong></label>
+            <h2><a href="/{{ article.slug }}.html">{{ article.title }}</a></h2>
+            <label>Posted on <strong>{{ article.date }}</strong> by <strong>{% if article.author %}{{ article.author }}{% elif article.authors %}{% for author in article.authors %}{{ author }}{% if loop.index != loop.length %}, {% endif %}{% endfor %}{% endif %}</strong></label>
             {{ article.content|truncate(110) }}
         {% else %}  
             No posts yet!
@@ -49,11 +50,15 @@
     </div>
 {% else %}
 <div class="row">
-    <div class="col-md-12">
-        {% if page.title != 'Home' %}
+    {% if page.title != 'Home' %}
+        <div class="col-md-12">
             <h1>{{ page.title }}</h1>
+            {{ page.content }}
+    {% elif page.title == 'Home' and page.content %}
+        <div class="col-md-12" style="text-align: center;">
+            <h1 style="color: red;">Announcement! Please read:</h1>
+            <p class="alert"> {{ page.content }}</p>
         {% endif %}
-        {{ page.content }}
     </div>
 </div>
 {% endif %}

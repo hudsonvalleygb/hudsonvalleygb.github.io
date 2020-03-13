@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/</loc>
-<lastmod>2020-03-08T20:13:24-00:00</lastmod>
+<lastmod>2020-03-13T18:47:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/tags.html</loc>
-<lastmod>2020-03-08T20:13:24-00:00</lastmod>
+<lastmod>2020-03-13T18:47:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/categories.html</loc>
-<lastmod>2020-03-08T20:13:24-00:00</lastmod>
+<lastmod>2020-03-13T18:47:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/authors.html</loc>
-<lastmod>2020-03-08T20:13:24-00:00</lastmod>
+<lastmod>2020-03-13T18:47:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/archives.html</loc>
-<lastmod>2020-03-08T20:13:24-00:00</lastmod>
+<lastmod>2020-03-13T18:47:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,6 +47,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/pages/about.html</loc>
+<lastmod>2020-02-29T00:00:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>https://hudsonvalleyghostbusters.org/pages/blog.html</loc>
 <lastmod>2020-02-29T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
@@ -102,8 +109,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://hudsonvalleyghostbusters.org/hello.html</loc>
-<lastmod>2020-02-29T00:00:00-05:00</lastmod>
+<loc>https://hudsonvalleyghostbusters.org/announcement-mar-13.html</loc>
+<lastmod>2020-03-13T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
