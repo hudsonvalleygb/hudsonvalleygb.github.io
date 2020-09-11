@@ -72,6 +72,9 @@
 				{% endfor %}
     		{% endfor %}
         </div>
+        {% if page.title == 'Slime-1' %}
+            <div><p>Check out the Slime 1 in action here:</p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6QjCegxfXIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        {% endif %}
     {% elif page.photo_gallery and page.title == 'About Us' %}
         <div class="gallery">
         <div class="row">

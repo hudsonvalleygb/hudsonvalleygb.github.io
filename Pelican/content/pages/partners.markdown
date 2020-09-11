@@ -1,6 +1,6 @@
 title: Our Partners
 slug: partners
-sort_order: 008
+sort_order: 009
 date: 2020-02-29
 summary: A list of charities the Hudson Valley Ghostbusters have partnered with
 

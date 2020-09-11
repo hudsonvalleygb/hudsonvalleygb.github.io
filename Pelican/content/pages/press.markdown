@@ -1,6 +1,6 @@
 title: Press
 slug: press
-sort_order: 009
+sort_order: 010
 date: 2020-02-29
 summary: News articles and galleries featuring the Hudson Valley Ghostbusters
 
