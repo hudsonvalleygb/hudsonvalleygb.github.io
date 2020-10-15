@@ -8,7 +8,7 @@ summary: News articles and galleries featuring the Hudson Valley Ghostbusters
 
 * [Science fiction draws crowd, stormtroopers to miSci in Schenectady | The Daily Gazette](https://dailygazette.com/article/2019/08/10/science-fiction-draws-crowd-to-misci){target="_blank"}(yes, we're in the article)
 
-* [Star Wars characters on hand for Sci-Fi@Misci | The Daily Gazette](https://dailygazette.com/galleries/2019/08/10/star-wars-characters-hand-sci-fimisci){target="_blank"}(yes, we're in the gallery)
+[//]: # * [Star Wars characters on hand for Sci-Fi@Misci | The Daily Gazette](https://dailygazette.com/galleries/2019/08/10/star-wars-characters-hand-sci-fimisci){target="_blank"}(yes, we're in the gallery)
 
 * [Steady Geekin Podcast, Episode 60: Geeks and Ghostbusters](https://soundcloud.com/user-912529527/steady-geekin-ep-60-geeks-and-ghostbusters){target="_blank"}
 
