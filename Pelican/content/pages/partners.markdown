@@ -9,7 +9,7 @@ summary: A list of charities the Hudson Valley Ghostbusters have partnered with
 
 * [American Foundation for Suicide Prevention](https://afsp.org/){target="_blank"}
 * [Pets Alive](https://www.petsalive.com/){target="_blank"}
-* [Fearless! (formerly Safe Homes of Orange County)](https://safehomesorangecounty.org/){target="_blank"}
+* [Fearless! (formerly Safe Homes of Orange County)](https://fearlesshv.org/){target="_blank"}
 * [American Cancer Society](https://www.cancer.org/){target="_blank"}
 * [Brittany Miller Foundation for Pediatric Cancer](http://brittanymiller.org/wordpress1/){target="_blank"}
 * [Hudson Valley Make a Wish](https://hudson.wish.org/){target="_blank"}

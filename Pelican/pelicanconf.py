@@ -6,7 +6,7 @@ AUTHOR = 'HVGB'
 SITENAME = 'Hudson Valley Ghostbusters'
 SITEURL = 'https://hudsonvalleyghostbusters.org'
 # SITEURL = 'hudsonvalleygb.github.io'
-# SITEURL = ''
+#SITEURL = ''
 SITE_SUMMARY = 'Hudson Valley Ghostbusters, a 501(c)(3) non-profit, dedicated to having fun while doing good'
 THEME = 'theme'
 
