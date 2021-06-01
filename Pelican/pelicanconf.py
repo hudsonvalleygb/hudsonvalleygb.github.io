@@ -61,6 +61,7 @@ DEFAULT_PAGINATION = False
 DISPLAY_CATEGORIES_ON_MENU = False
 PAGE_ORDER_BY = "sort_order"
 API_KEY = "3b974f3ccb23633eb1dd640aae473cd0"
+PHOTO_RESIZE_JOBS = -1
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
