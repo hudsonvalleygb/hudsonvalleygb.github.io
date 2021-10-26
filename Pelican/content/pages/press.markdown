@@ -18,6 +18,8 @@ News Articles:
 
 Video Appearances:
 
+* [Greenburgh Public Library FanCon 2021: Cosplay for a Cause with the Hudson Valley Ghostbusters](https://vimeo.com/618378231){target="_blank"} Thanks to the Greenburgh Public Library for having us present a panel!
+
 * [Windy City Ghostbusters Present: Ghostbusters Charity Trivia Challenge 2!](https://www.youtube.com/watch?v=oX4iRXvJxOQ){target="_blank"} Thanks to the Windy City Ghostbusters for letting us be a part of this!
 
 * [The Tingling Tea, September 23rd, 2021](https://www.youtube.com/watch?v=0ioJXNrvq7k){target="_blank"} Thanks to Cliff Dive Productions for having us on!
