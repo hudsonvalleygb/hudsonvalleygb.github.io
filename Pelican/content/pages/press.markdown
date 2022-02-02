@@ -24,6 +24,6 @@ Video Appearances:
 
 * [The Tingling Tea, September 23rd, 2021](https://www.youtube.com/watch?v=0ioJXNrvq7k){target="_blank"} Thanks to Cliff Dive Productions for having us on!
 
-* [Hudson Valley Ghostbusters vs Gozer at MyKingstonKinds Halloween event, October 30th, 2021](https://www.youtube.com/watch?v=gnbZMUEzJU8){target="_blank"}
+* [Hudson Valley Ghostbusters vs Gozer at MyKingstonKids Halloween Fest, October 30th, 2021](https://www.youtube.com/watch?v=gnbZMUEzJU8){target="_blank"}
 
 * [The Tingling Tea, February 1st, 2022](https://www.youtube.com/watch?v=iU6xVYErHTA){target="_blank"} Thanks again to Cliff Dive Productions and Les and Auggie for having us on!!
