@@ -7,4 +7,4 @@ date: 2020-02-29
 Summary: Homepage of the Hudson Valley Ghostbusters
 description: Homepage of the Hudson Valley Ghostbusters
 
-##[Summer/Fall 2021]({filename}../posts/september_2021.md)##
+##[2022 Begins!]({filename}../posts/february_2022.md)##
