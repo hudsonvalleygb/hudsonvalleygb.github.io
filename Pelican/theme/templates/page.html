@@ -32,17 +32,20 @@
     </div>
     <div class="row">
         <div class="col-md-8">
-            <form action="https://getsimpleform.com/messages/test?publishable_key={{ API_KEY }}" method="post" id="contact">
+            <form method="post" id="contact" action="https://api.staticforms.xyz/submit">
                 <label for="first_name">First Name</label>
-                <input type="text" name="first_name" required/>
+                <input type="text" name="$first_name" required/>
                 <label for="last_name">Last Name </label>
-                <input type="text" name="last_name" required/>
+                <input type="text" name="$last_name" required/>
                 <label for="email">Email</label>
-                <input type="text" name="email" id="email" required/>
+                <input type="text" name="email" id="email" placeholder="you@email.com" required/>
                 <label for="subject">Subject</label>
                 <input type="text" name="subject" required/>
                 <label for="message">Message</label>
                 <textarea name="message" required></textarea>
+                <input type="hidden" name="accessKey" value="0fe1c311-c2f4-4932-81cc-df201c89b3c8">
+                <input type="hidden" name="redirectTo" value="{{ SITEURL }}/pages/thanks.html">
+                <input type="hidden" name="replyTo" value="@">
                 <input type="submit" value="Submit" class="btn btn-info"/>
             </form>
             <p></p>
@@ -139,23 +142,25 @@
     {% if page.title == 'Contact Us' %}
         <!-- This is to AJAX POST the form to getsimpleform.com's ajax endpoint -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script type="text/javascript">
+        <!-- <script type="text/javascript">
             $("#contact").submit(function(e) {
                 e.preventDefault();
                 var form = $(this);
-                var url = form.attr('action');
-                console.log(url);
-                var form_data = form.serializeArray();
+                var form_data = form.serialize();
+                console.log(form_data);
                 $.ajax({
-                    dataType: 'jsonp',
-                    type: "POST",
-                    url: url,
+                    dataType: 'json',
+                    method: "POST",
+                    url: "https://script.google.com/macros/s/AKfycbyGxXpnCZremWxQAPatevhTyTgwUDRGn5-subRZ2Qd6VufIDlgLVuc_cRKAV4bH-MtOtg/exec",
                     data: form_data,
                     success: function(data) {
                         window.location.href = "{{ SITEURL }}/pages/thanks.html";
+                    },
+                    error: function() {
+                        alert("Something went wrong. Please try again.")
                     }
                 });
             });
-        </script>
+        </script> -->
     {% endif %}
 {% endblock %}

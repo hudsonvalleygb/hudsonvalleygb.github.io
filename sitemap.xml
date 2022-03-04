@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/</loc>
-<lastmod>2022-02-20T19:54:57-00:00</lastmod>
+<lastmod>2022-03-04T15:10:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/tags.html</loc>
-<lastmod>2022-02-20T19:54:57-00:00</lastmod>
+<lastmod>2022-03-04T15:10:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/categories.html</loc>
-<lastmod>2022-02-20T19:54:57-00:00</lastmod>
+<lastmod>2022-03-04T15:10:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/authors.html</loc>
-<lastmod>2022-02-20T19:54:57-00:00</lastmod>
+<lastmod>2022-03-04T15:10:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/archives.html</loc>
-<lastmod>2022-02-20T19:54:57-00:00</lastmod>
+<lastmod>2022-03-04T15:10:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -109,6 +109,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://hudsonvalleyghostbusters.org/pages/join.html</loc>
+<lastmod>2022-03-04T00:00:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
 <loc>https://hudsonvalleyghostbusters.org/pages/contact.html</loc>
 <lastmod>2020-02-29T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -120,6 +127,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2020-03-03T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
+</url>
+
+<url>
+<loc>https://hudsonvalleyghostbusters.org/happy-st-patricks-day.html</loc>
+<lastmod>2022-03-04T00:00:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
 </url>
 
 <url>
