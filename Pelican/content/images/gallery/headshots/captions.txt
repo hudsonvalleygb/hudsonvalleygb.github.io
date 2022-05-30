@@ -4,3 +4,5 @@ oehl_2.jpg: photos/gallery/nametags/oehlt.jpg
 002_rosenthal.jpg: photos/gallery/nametags/rosenthalt.jpg
 zzz_spud.jpg: photos/gallery/nametags/slimert.jpg
 corbett.jpg: photos/gallery/nametags/corbettt.jpg
+sciglimpaglia.jpg: photos/gallery/nametags/sciglimpaglia.jpg
+mackenzie.jpg: photos/gallery/nametags/mackenzie.jpg
