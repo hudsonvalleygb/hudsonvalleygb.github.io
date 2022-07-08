@@ -1,8 +1,9 @@
-natale.jpg: photos/gallery/nametags/natalet.jpg
-oehl_2.jpg: photos/gallery/nametags/oehlt.jpg
-0001_sobel_and_bennett.jpg: photos/gallery/nametags/sobel_bennettt.jpg
-002_rosenthal.jpg: photos/gallery/nametags/rosenthalt.jpg
-zzz_spud.jpg: photos/gallery/nametags/slimert.jpg
-corbett.jpg: photos/gallery/nametags/corbettt.jpg
+natale.jpg: photos/gallery/nametags/natale.jpg
+oehl_2.jpg: photos/gallery/nametags/oehl.jpg
+0001_sobel_and_bennett.jpg: photos/gallery/nametags/sobel_bennett.jpg
+002_rosenthal.jpg: photos/gallery/nametags/rosenthal.jpg
+zzz_spud.jpg: photos/gallery/nametags/slimer.jpg
+corbett.jpg: photos/gallery/nametags/corbett.jpg
 sciglimpaglia.jpg: photos/gallery/nametags/sciglimpaglia.jpg
 mackenzie.jpg: photos/gallery/nametags/mackenzie.jpg
+marrone.jpg: photos/gallery/nametags/marrone.jpg

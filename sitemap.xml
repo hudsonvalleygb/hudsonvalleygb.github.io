@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/</loc>
-<lastmod>2022-06-05T08:52:56-00:00</lastmod>
+<lastmod>2022-07-07T23:04:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/tags.html</loc>
-<lastmod>2022-06-05T08:52:56-00:00</lastmod>
+<lastmod>2022-07-07T23:04:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/categories.html</loc>
-<lastmod>2022-06-05T08:52:56-00:00</lastmod>
+<lastmod>2022-07-07T23:04:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/authors.html</loc>
-<lastmod>2022-06-05T08:52:56-00:00</lastmod>
+<lastmod>2022-07-07T23:04:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/archives.html</loc>
-<lastmod>2022-06-05T08:52:56-00:00</lastmod>
+<lastmod>2022-07-07T23:04:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -76,6 +76,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hudsonvalleyghostbusters.org/pages/ecto-pursuit.html</loc>
 <lastmod>2020-09-11T00:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>https://hudsonvalleyghostbusters.org/pages/ecto_gmc.html</loc>
+<lastmod>2022-07-07T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
