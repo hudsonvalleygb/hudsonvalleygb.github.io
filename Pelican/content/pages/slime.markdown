@@ -1,6 +1,6 @@
 title: Science of Slime!
 slug: slime
-sort_order: 011
+sort_order: 012
 gallery: {photo}gallery/slime
 date: 2020-02-29
 summary: A brief look at the Hudson Valley Ghostbusters' Slime Lab
