@@ -5,5 +5,6 @@ oehl_2.jpg: photos/gallery/nametags/oehl.jpg
 zzz_spud.jpg: photos/gallery/nametags/slimer.jpg
 corbett.jpg: photos/gallery/nametags/corbett.jpg
 sciglimpaglia.jpg: photos/gallery/nametags/sciglimpaglia.jpg
-mackenzie.jpg: photos/gallery/nametags/mackenzie.jpg
+mackenzie_c.jpg: photos/gallery/nametags/mackenzie.jpg
+mackenzie_s.jpg: photos/gallery/nametags/mackenzie.jpg
 marrone.jpg: photos/gallery/nametags/marrone.jpg

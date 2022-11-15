@@ -19,10 +19,14 @@ Video Appearances:
 <li><p><a href="https://www.youtube.com/watch?v=0ioJXNrvq7k" target="_blank" style="display:inline">The Tingling Tea, September 23rd, 2021</a> -- Thank you to Cliff Dive Productions and Les and Auggie for having us on!</p></li>
 <li><p><a href="https://www.youtube.com/watch?v=gnbZMUEzJU8" target="_blank" style="display:inline">Hudson Valley Ghostbusters vs Gozer at MyKingstonKids Halloween Fun Fest</a> -- Thank you to MyKingstonKids for setting this up with us!</p></li>
 <li><p><a href="https://www.youtube.com/watch?v=iU6xVYErHTA" target="_blank" style="display:inline">The Tingling Tea, February 1st, 2022</a> -- Thanks again to Cliff Dive Productions, Les, and Auggie for having us back!</p></li>
+<li><p><a href="https://vimeo.com/740151182" target="_blank" style="display:inline">Greenburgh Public Library FanCon 2022: Steampunk Cosplay and Costuming</a> -- Thanks to the Greenburgh Public Library for having us present another panel!</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=NcO2LMCDdyk" target="_blank" style="display:inline">HVGB Throws Out the Firs Pitch at Hudson Valley Renegades, August 14 2022</a> -- Thanks so much to the Hudson Valley Renegades for having us at a game!</p></li>
 </ul>
 
 Podcast appearances:
 
 <ul>
 <li><p><a href="https://soundcloud.com/user-912529527/steady-geekin-ep-60-geeks-and-ghostbusters" target="_blank" style="display:inline">Steady Geekin Podcast, Episode 60: Geeks and Ghostbusters</a> -- Thank you to Steady Geekin for having us on!</p></li>
-<li><p><a href="https://videogamecrosstalk.com/2019/05/02/ep-034-saratoga-comic-con-spring-2019" target="_blank" style="display:inline">Videogame Crosstalk Podcast, Episode 34: Saratoga ComicCon - Spring 2019</a> -- Thank you to Videogame Crosstalk for having us on!</p></li></ul>
+<li><p><a href="https://videogamecrosstalk.com/2019/05/02/ep-034-saratoga-comic-con-spring-2019" target="_blank" style="display:inline">Videogame Crosstalk Podcast, Episode 34: Saratoga ComicCon - Spring 2019</a> -- Thank you to Videogame Crosstalk for having us on!</p></li>
+<li><p><a href="https://www.iheart.com/podcast/481-clear-view-hudson-v-28550385/episode/clear-view-hv-09-11-2022-guests-tara-101845558/" target="_blank" style="display:inline">Clear View Hudson Valley, September 11, 2022: Hudson Valley Ghostbusters</a> -- Thank you to Uncle Mike and the crew at iHeartMedia in Poughkeepsie for having us on!<p></li>
+</ul>

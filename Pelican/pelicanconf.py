@@ -41,7 +41,7 @@ SOCIAL = (('facebook', 'https://www.facebook.com/HV.Ghostbusters/'),
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['photos', 'sitemap']
-PHOTO_LIBRARY = "/Users/pnatale/repos/hudsonvalleygb.github.io/Pelican/content/images"
+PHOTO_LIBRARY = "/home/peter/repos/hudsonvalleygb.github.io/Pelican/content/images"
 SITEMAP = {
     'format': 'xml',
     'priorities': {
