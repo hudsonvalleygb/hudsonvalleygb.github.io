@@ -22,7 +22,7 @@ Video Appearances:
 <li><p><a href="https://www.youtube.com/watch?v=gnbZMUEzJU8" target="_blank" style="display:inline">Hudson Valley Ghostbusters vs Gozer at MyKingstonKids Halloween Fun Fest</a> -- Thank you to MyKingstonKids for setting this up with us!</p></li>
 <li><p><a href="https://www.youtube.com/watch?v=iU6xVYErHTA" target="_blank" style="display:inline">The Tingling Tea, February 1st, 2022</a> -- Thanks again to Cliff Dive Productions, Les, and Auggie for having us back!</p></li>
 <li><p><a href="https://vimeo.com/740151182" target="_blank" style="display:inline">Greenburgh Public Library FanCon 2022: Steampunk Cosplay and Costuming</a> -- Thanks to the Greenburgh Public Library for having us present another panel!</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=NcO2LMCDdyk" target="_blank" style="display:inline">HVGB Throws Out the Firs Pitch at Hudson Valley Renegades, August 14 2022</a> -- Thanks so much to the Hudson Valley Renegades for having us at a game!</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=NcO2LMCDdyk" target="_blank" style="display:inline">HVGB Throws Out the First Pitch at Hudson Valley Renegades, August 14 2022</a> -- Thanks so much to the Hudson Valley Renegades for having us at a game!</p></li>
 </ul>
 
 Podcast appearances:
