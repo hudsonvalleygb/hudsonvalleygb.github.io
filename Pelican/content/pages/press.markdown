@@ -12,6 +12,8 @@ News Articles:
 
 * [Hudson Valley Ghostbusters convert movie magic to fundraising | Spectrum News 1 Hudson Valley](https://spectrumlocalnews.com/nys/hudson-valley/human-interest/2021/09/26/hudson-valley-ghostbusters-put-the-fun-in-fundraising?fbclid=IwAR1e-NR4H0ZwCCUsGUnIR-wutD8jmgOU9Gk8SOTztn4hrxNElwQTr0J_a98){target="_blank"}
 
+* [Comic Books, Slime, a Little Something For Everyone: Saratoga Comic Con Returns Saturday | The Daily Gazette](https://dailygazette.com/2022/11/11/comic-books-slime-a-little-something-for-everyone-saratoga-comic-con-returns-saturday/){target="_blank"}
+
 Video Appearances:
 <ul>
 <li><p><a href="https://vimeo.com/618378231" target="_blank" style="display:inline">Greenburgh Public Library FanCon 2021: Cosplay for a Cause with the Hudson Valley Ghostbusters</a> -- Thanks to the Greenburgh Public Library for having us present a panel!</p></li>
