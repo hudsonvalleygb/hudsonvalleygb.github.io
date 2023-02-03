@@ -7,4 +7,4 @@ date: 2020-02-29
 Summary: Homepage of the Hudson Valley Ghostbusters
 description: Homepage of the Hudson Valley Ghostbusters
 
-##[Year End Reflections, 2022]({filename}../posts/december_2022.md)##
+##[So, You Want To Be a Ghostbuster]({filename}../posts/2023_feb_02.md)##
