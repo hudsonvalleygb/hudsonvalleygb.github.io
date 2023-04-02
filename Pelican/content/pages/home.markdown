@@ -7,4 +7,4 @@ date: 2020-02-29
 Summary: Homepage of the Hudson Valley Ghostbusters
 description: Homepage of the Hudson Valley Ghostbusters
 
-##[Proton Packs and Parades]({filename}../posts/2023_mar_08.md)##
+##[My 40 Year Ghostbusters Journey]({filename}../posts/2023_apr_01.md)##

@@ -24,6 +24,7 @@
     <script src="https://kit.fontawesome.com/e156bccece.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="/theme/css/stylesheet.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://hudsonvalleyghostbusters.org/theme/css/magnific-popup.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
 </head>
 <body>
@@ -93,6 +94,11 @@
 <div class="row">
  <div class="col-md-8">
   <h1>Hudson Valley Ghostbusters</h1>
+   <h2><a href="/40-year-ghostbusters-journey.html">My 40 Year Ghostbusters Journey</a></h2>
+   <label>Posted on <strong>2023-04-01 00:00:00-04:00</strong></label>
+   <p>Forty years old.</p>
+<p>That's how old the Ghostbusters franchise will be next year.</p>
+<p>That's also...
    <h2><a href="/year-end-reflections-2022.html">Year End Reflections, 2022</a></h2>
    <label>Posted on <strong>2022-12-06 00:00:00-05:00</strong></label>
    <p>Well, what can I say?</p>
@@ -110,6 +116,30 @@
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <!-- Magnific Popup core JS file -->
+        <script src="https://hudsonvalleyghostbusters.org/theme/js/jquery.magnific-popup.js"></script>
+        <script>
+            $('.gallery').magnificPopup({
+            	delegate: 'a',
+            	type: 'image',
+            	gallery: {
+            		enabled: true,
+            		navigateByImgClick: true,
+            		preload: [1,2]
+            	},
+            	image: {
+            		titleSrc: function(item) {
+            			if (item.el.attr('caption') && item.el.attr('exif')) {
+            				return (item.el.attr('caption').replace(/\\n/g, '<br />') +
+            					'<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
+            			}
+            		// return item.el.attr('title') + '<small>' + item.el.attr('exif') + '</small>';
+                    // return '<small>' + item.el.attr('exif') + '</small>';
+            	} }
+            });
+        </script>
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js" crossorigin="anonymous"></script> -->
     <script type="text/javascript">
             $(document).ready(function () {
