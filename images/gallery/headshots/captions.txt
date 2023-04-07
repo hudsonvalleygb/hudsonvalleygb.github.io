@@ -9,3 +9,4 @@ mackenzie_c.jpg: photos/gallery/nametags/mackenzie.jpg
 mackenzie_s.jpg: photos/gallery/nametags/mackenzie.jpg
 marrone.jpg: photos/gallery/nametags/marrone.jpg
 smith.jpg: photos/gallery/nametags/smith.jpg
+podell.jpg: photos/gallery/nametags/podell.jpg
