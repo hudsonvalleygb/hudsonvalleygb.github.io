@@ -14,6 +14,8 @@ News Articles:
 
 * [Comic Books, Slime, a Little Something For Everyone: Saratoga Comic Con Returns Saturday | The Daily Gazette](https://dailygazette.com/2022/11/11/comic-books-slime-a-little-something-for-everyone-saratoga-comic-con-returns-saturday/){target="_blank"}
 
+* [9th annual Saratoga Springs comic con welcomes pop culture enthusiasts](https://wnyt.com/top-stories/9th-annual-saratoga-springs-comic-con-welcomes-pop-culture-enthusiasts/){target="_blank"}
+
 Video Appearances:
 <ul>
 <li><p><a href="https://vimeo.com/618378231" target="_blank" style="display:inline">Greenburgh Public Library FanCon 2021: Cosplay for a Cause with the Hudson Valley Ghostbusters</a> -- Thanks to the Greenburgh Public Library for having us present a panel!</p></li>
