@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/</loc>
-<lastmod>2023-05-08T07:47:55-00:00</lastmod>
+<lastmod>2023-05-31T22:40:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -106,6 +106,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2020-03-03T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
+</url>
+
+<url>
+<loc>https://hudsonvalleyghostbusters.org/toys-movies-slime-and-charityt.html</loc>
+<lastmod>2023-06-01T00:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
 </url>
 
 <url>

@@ -7,4 +7,4 @@ date: 2020-02-29
 Summary: Homepage of the Hudson Valley Ghostbusters
 description: Homepage of the Hudson Valley Ghostbusters
 
-##[I've Got That New York Spirit]({filename}../posts/2023_may_01.md)##
+##[Toys, Movies, Slime, and Charity]({filename}../posts/2023_june_01.md)##

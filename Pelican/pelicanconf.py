@@ -8,6 +8,8 @@ SITEURL = 'https://hudsonvalleyghostbusters.org'
 # SITEURL = 'hudsonvalleygb.github.io'
 #SITEURL = ''
 SITE_SUMMARY = 'Hudson Valley Ghostbusters, a 501(c)(3) non-profit, dedicated to having fun while doing good'
+#SITE_LOGO = 'HVGB_logo_transparent.png'
+SITE_LOGO = 'HVGB_logo_pride_transparent.png'
 THEME = 'theme'
 
 PATH = 'content'
