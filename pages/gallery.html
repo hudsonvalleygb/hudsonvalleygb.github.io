@@ -134,6 +134,7 @@
 					<a href="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/steampunk_3.jpg" title="steampunk_3.jpg" exif="" caption=""><img src="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/steampunk_3t.jpg"></a>
 					<a href="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/steampunk_4.jpg" title="steampunk_4.jpg" exif="" caption=""><img src="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/steampunk_4t.jpg"></a>
 					<a href="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/steampunk_and_falcon.jpg" title="steampunk_and_falcon.jpg" exif="" caption=""><img src="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/steampunk_and_falcont.jpg"></a>
+					<a href="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/steve_nancy_and_liz.jpg" title="steve_nancy_and_liz.jpg" exif="https://www.nydailynews.com/photos/ny-ghostbusters-day-new-york-city-20230611-tpzro3ozm5ebrba3o4hk4w6nem-photogallery.html" caption="Photo taken by Barry Williams for New York Daily News. Photo courtesy of New York Daily News."><img src="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/steve_nancy_and_lizt.jpg"></a>
 					<a href="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/stormville.jpg" title="stormville.jpg" exif="" caption=""><img src="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/stormvillet.jpg"></a>
 					<a href="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/trunk_or_treat_2022_10_22.jpg" title="trunk_or_treat_2022_10_22.jpg" exif="" caption=""><img src="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/trunk_or_treat_2022_10_22t.jpg"></a>
 					<a href="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/walk_out_of_darkness.jpg" title="walk_out_of_darkness.jpg" exif="" caption=""><img src="https://hudsonvalleyghostbusters.org/photos/gallery/photo_gallery/walk_out_of_darknesst.jpg"></a>
@@ -164,8 +165,9 @@
             	image: {
             		titleSrc: function(item) {
             			if (item.el.attr('caption') && item.el.attr('exif')) {
-            				return (item.el.attr('caption').replace(/\\n/g, '<br />') +
-            					'<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
+                                        return ('<a href="' + item.el.attr('exif') + '" target="_blank">' + item.el.attr('caption').replace(/\\n/g, '<br />') + '</a>');
+            	//			return (item.el.attr('caption').replace(/\\n/g, '<br />') +
+            	//				'<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
             			}
             		// return item.el.attr('title') + '<small>' + item.el.attr('exif') + '</small>';
                     // return '<small>' + item.el.attr('exif') + '</small>';

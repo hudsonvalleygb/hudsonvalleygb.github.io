@@ -145,8 +145,9 @@
             	image: {
             		titleSrc: function(item) {
             			if (item.el.attr('caption') && item.el.attr('exif')) {
-            				return (item.el.attr('caption').replace(/\\n/g, '<br />') +
-            					'<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
+                                        return ('<a href="' + item.el.attr('exif') + '" target="_blank">' + item.el.attr('caption').replace(/\\n/g, '<br />') + '</a>');
+            	//			return (item.el.attr('caption').replace(/\\n/g, '<br />') +
+            	//				'<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
             			}
             		// return item.el.attr('title') + '<small>' + item.el.attr('exif') + '</small>';
                     // return '<small>' + item.el.attr('exif') + '</small>';
