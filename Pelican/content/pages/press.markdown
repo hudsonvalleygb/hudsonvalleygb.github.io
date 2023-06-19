@@ -16,6 +16,8 @@ News Articles:
 
 * [9th annual Saratoga Springs comic con welcomes pop culture enthusiasts](https://wnyt.com/top-stories/9th-annual-saratoga-springs-comic-con-welcomes-pop-culture-enthusiasts/){target="_blank"}
 
+* [Ghostbusters sequel filming takes place at New York City's Hook & Ladder 8 Firehouse](https://ghostbustersnews.com/2023/06/15/ghostbusters-sequel-filming-reunites-nycs-hook-ladder-8-firehouse-with-the-ecto-1/){target="_blank"} (Photos for the article were provided by our own Joe Podell!)
+
 Video Appearances:
 <ul>
 <li><p><a href="https://vimeo.com/618378231" target="_blank" style="display:inline">Greenburgh Public Library FanCon 2021: Cosplay for a Cause with the Hudson Valley Ghostbusters</a> -- Thanks to the Greenburgh Public Library for having us present a panel!</p></li>
