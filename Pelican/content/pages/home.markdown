@@ -7,4 +7,4 @@ date: 2020-02-29
 Summary: Homepage of the Hudson Valley Ghostbusters
 description: Homepage of the Hudson Valley Ghostbusters
 
-##[Mid-year Check In]({filename}../posts/2023_july_01.md)##
+##[Ghostbusters: a Franchise, a Friend, a Forever Lifestyle!]({filename}../posts/2023_aug_08.md)##
