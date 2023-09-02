@@ -1,5 +1,5 @@
 natale.jpg: photos/gallery/nametags/natale.jpg
-oehl_2.jpg: photos/gallery/nametags/oehl.jpg
+oehl.jpg: photos/gallery/nametags/oehl.jpg
 0001_sobel_and_bennett.jpg: photos/gallery/nametags/sobel_bennett.jpg
 002_rosenthal.jpg: photos/gallery/nametags/rosenthal.jpg
 zzz_spud.jpg: photos/gallery/nametags/slimer.jpg
@@ -11,3 +11,4 @@ marrone.jpg: photos/gallery/nametags/marrone.jpg
 smith.jpg: photos/gallery/nametags/smith.jpg
 podell.jpg: photos/gallery/nametags/podell.jpg
 mohler.jpg: photos/gallery/nametags/mohler.jpg
+dimauro.jpg: photos/gallery/nametags/dimauro.jpg

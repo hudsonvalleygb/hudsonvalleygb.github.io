@@ -18,6 +18,10 @@ News Articles:
 
 * [Ghostbusters sequel filming takes place at New York City's Hook & Ladder 8 Firehouse](https://ghostbustersnews.com/2023/06/15/ghostbusters-sequel-filming-reunites-nycs-hook-ladder-8-firehouse-with-the-ecto-1/){target="_blank"} (Photos for the article were provided by our own Joe Podell!)
 
+* [Cosplayers, Ghostbusters, and K.I.T.T. the car make appearances at Proctors' Fandom Fest](https://www.timesunion.com/news/article/fandom-fest-proctors-schenectady-brings-18331069.php){target="_blank"} (We are briefly mentioned toward the bottom of the article)
+
+* [Hudson Valley Ghostbusters, Inc., marches in OutHudson's 14th annual Columbia County Pride Parade in Hudson on Saturday (3 June, 2023)](https://www.hudsonvalley360.com/hudson-valley-ghostbusters-inc-marches-in-outhudsons-14th-annual-columbia-county-pride-parade-in-hudson/image_4a807848-025f-11ee-baab-137d38bf0302.html){target="_blank"}
+
 Video Appearances:
 <ul>
 <li><p><a href="https://vimeo.com/618378231" target="_blank" style="display:inline">Greenburgh Public Library FanCon 2021: Cosplay for a Cause with the Hudson Valley Ghostbusters</a> -- Thanks to the Greenburgh Public Library for having us present a panel!</p></li>
