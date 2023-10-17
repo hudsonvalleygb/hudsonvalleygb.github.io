@@ -2,6 +2,7 @@ title: Join Us!
 slug: join
 sort_order: 099
 date: 2022-03-04
+status: hidden
 summary: Application to join HVGB
 
 ##Hey, you!##
