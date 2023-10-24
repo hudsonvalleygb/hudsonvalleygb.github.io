@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://hudsonvalleyghostbusters.org/</loc>
-<lastmod>2023-10-17T19:14:20-00:00</lastmod>
+<lastmod>2023-10-23T21:48:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -83,6 +83,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hudsonvalleyghostbusters.org/pages/slime.html</loc>
 <lastmod>2020-02-29T00:00:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>https://hudsonvalleyghostbusters.org/pages/join.html</loc>
+<lastmod>2022-03-04T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
