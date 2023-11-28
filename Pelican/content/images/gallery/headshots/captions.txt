@@ -13,3 +13,5 @@ podell.jpg: photos/gallery/nametags/podell.jpg
 mohler.jpg: photos/gallery/nametags/mohler.jpg
 dimauro.jpg: photos/gallery/nametags/dimauro.jpg
 ripley.jpg: photos/gallery/nametags/ripley.jpg
+dipaola.jpg: photos/gallery/nametags/dipaola.jpg
+thayer.jpg: photos/gallery/nametags/thayer.jpg
