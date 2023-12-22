@@ -26,7 +26,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('Store', "https://www.storefrontier.com/hudsonvalleyghostbusters?type&fbclid=IwAR2SpHuv9f6i3nAT1836XsrwDYacWV8ptv6n2F5K93TdygCDdr0bqHdhM8w"),)
+LINKS = (('Store', "http://tee.pub/lic/YcX7Adevn3I"), ('Linktree', "https://linktr.ee/HVGhostbusters"),)
 
 STATIC_PATHS = [
     'images',
