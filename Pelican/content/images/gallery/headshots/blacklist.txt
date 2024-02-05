@@ -1,4 +1,4 @@
-oehl.jpg:
+oehl_2.jpg:
 rosenthal.jpg:
 sobel.jpg:
 sobel_2.jpg:
