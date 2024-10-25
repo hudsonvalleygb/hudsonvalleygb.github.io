@@ -26,7 +26,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Store', "http://tee.pub/lic/YcX7Adevn3I"), ('Linktree', "https://linktr.ee/HVGhostbusters"),)
+LINKS = (('Store', "https://www.redbubble.com/people/hudsonvalleygb/shop"), ('Linktree', "https://linktr.ee/HVGhostbusters"), ('Hudson Valley Slime Time', 'https://www.youtube.com/playlist?list=PLZfgEVgjj4cFUv3wtB3UbJ13rmXrS8tea'),)
 
 STATIC_PATHS = [
     'images',

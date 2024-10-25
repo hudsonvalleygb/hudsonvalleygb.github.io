@@ -14,9 +14,9 @@ We are a group of Ghostbusters enthusiasts who make appearances in costume to ra
 
 * Chief Financial Officer: Tara Sobel
 
-* Associate Financial Director: Oana Rosenthal
-
 * Marketing Director: Jason Oehl
+
+* Social Media Director: Corey Mackenzie
 
 * Community Outreach Coordinator: Peter Natale
 
