@@ -15,3 +15,8 @@ dimauro.jpg: photos/gallery/nametags/dimauro.jpg
 ripley.jpg: photos/gallery/nametags/ripley.jpg
 dipaola.jpg: photos/gallery/nametags/dipaola.jpg
 thayer.jpg: photos/gallery/nametags/thayer.jpg
+cady.jpg: photos/gallery/nametags/cady.jpg
+fass.jpg: photos/gallery/nametags/fass.jpg
+sloat.jpg: photos/gallery/nametags/sloat.jpg
+heard.jpg: photos/gallery/nametags/heard.jpg
+twergo.jpg: photos/gallery/nametags/twergo.jpg

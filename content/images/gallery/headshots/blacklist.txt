@@ -1,0 +1,7 @@
+oehl_2.jpg:
+rosenthal.jpg:
+sobel.jpg:
+sobel_2.jpg:
+rosenthal_2.jpg:
+sobel_bennett_old.jpg:
+xxxsciglimpaglia.jpg:

@@ -4,9 +4,9 @@ sort_order: 012
 date: 2020-02-29
 summary: News articles and galleries featuring the Hudson Valley Ghostbusters
 
-News Articles:
+##News Articles:##
 
-* [Fandom sparks clubs for those who love their movies, television shows | The Poughkeepsie Journal](https://www.poughkeepsiejournal.com/story/life/2018/06/21/hudson-valley-clubs-generate-fandom/714148002/){target="_blank}
+* [Fandom sparks clubs for those who love their movies, television shows | The Poughkeepsie Journal](https://www.poughkeepsiejournal.com/story/life/2018/06/21/hudson-valley-clubs-generate-fandom/714148002/){target="_blank"}
 
 * [Science fiction draws crowd, stormtroopers to miSci in Schenectady | The Daily Gazette](https://dailygazette.com/article/2019/08/10/science-fiction-draws-crowd-to-misci){target="_blank"}(yes, we're in the article)
 
@@ -16,13 +16,13 @@ News Articles:
 
 * [9th annual Saratoga Springs comic con welcomes pop culture enthusiasts](https://wnyt.com/top-stories/9th-annual-saratoga-springs-comic-con-welcomes-pop-culture-enthusiasts/){target="_blank"}
 
-* [Ghostbusters sequel filming takes place at New York City's Hook & Ladder 8 Firehouse](https://ghostbustersnews.com/2023/06/15/ghostbusters-sequel-filming-reunites-nycs-hook-ladder-8-firehouse-with-the-ecto-1/){target="_blank"} (Photos for the article were provided by our own Joe Podell!)
+* [Ghostbusters sequel filming takes place at New York City's Hook & Ladder 8 Firehouse](https://ghostbustersnews.com/2023/06/15/ghostbusters-sequel-filming-reunites-nycs-hook-ladder-8-firehouse-with-the-ecto-1/){target="_blank"} (Photos for the article were provided by our own Joe Podell, aka [The Rockland Ghostbuster](https://rocklandghostbuster.com){target="_blank" style="display:inline"}!)
 
 * [Cosplayers, Ghostbusters, and K.I.T.T. the car make appearances at Proctors' Fandom Fest](https://www.timesunion.com/news/article/fandom-fest-proctors-schenectady-brings-18331069.php){target="_blank"} (We are briefly mentioned toward the bottom of the article)
 
 * [Hudson Valley Ghostbusters, Inc., marches in OutHudson's 14th annual Columbia County Pride Parade in Hudson on Saturday (3 June, 2023)](https://www.hudsonvalley360.com/hudson-valley-ghostbusters-inc-marches-in-outhudsons-14th-annual-columbia-county-pride-parade-in-hudson/image_4a807848-025f-11ee-baab-137d38bf0302.html){target="_blank"}
 
-Video Appearances:
+##Video Appearances:##
 <ul>
 <li><p><a href="https://vimeo.com/618378231" target="_blank" style="display:inline">Greenburgh Public Library FanCon 2021: Cosplay for a Cause with the Hudson Valley Ghostbusters</a> -- Thanks to the Greenburgh Public Library for having us present a panel!</p></li>
 <li><p><a href="https://www.youtube.com/watch?v=oX4iRXvJxOQ" target="_blank" style="display:inline">Windy City Ghostbusters Present: Ghostbusters Charity Trivia Challenge 2!</a> -- Thanks to the Windy City Ghostbusters for letting us be a part of this!!</p></li>
@@ -34,12 +34,12 @@ Video Appearances:
 <li><p><a href="https://www.youtube.com/watch?v=yEaG9CHP0tM" target="_blank" style="display:inline">NYC Ghostbusters 2023 Toy Drive Telethon</a> -- Thank you so much to the <a href="https://nycghostbusters.com" target="_blank" style="display:inline">NYC Ghostbusters</a> for having us on!</p></li>
 </ul>
 
-Podcast and radio appearances:
-
+##Podcast and radio appearances:##
 <ul>
 <li><p><a href="https://soundcloud.com/user-912529527/steady-geekin-ep-60-geeks-and-ghostbusters" target="_blank" style="display:inline">Steady Geekin Podcast, Episode 60: Geeks and Ghostbusters</a> -- Thank you to Steady Geekin for having us on!</p></li>
 <li><p><a href="https://videogamecrosstalk.com/2019/05/02/ep-034-saratoga-comic-con-spring-2019" target="_blank" style="display:inline">Videogame Crosstalk Podcast, Episode 34: Saratoga ComicCon - Spring 2019</a> -- Thank you to Videogame Crosstalk for having us on!</p></li>
 <li><p><a href="https://www.iheart.com/podcast/481-clear-view-hudson-v-28550385/episode/clear-view-hv-09-11-2022-guests-tara-101845558/" target="_blank" style="display:inline">Clear View Hudson Valley, September 11, 2022: Hudson Valley Ghostbusters</a> -- Thank you to Uncle Mike and the crew at iHeartMedia in Poughkeepsie for having us on!<p></li>
 <li><p><a href="https://clrosari.podbean.com/e/bonus-minisode-interview-with-matthew-bennett-of-the-hv-ghostbusters/" target="_blank" style="display:inline">The FLOGOS LIbrary Podcast Bonus Minisode - Interview with Matthew Bennett of the HV Ghostbusters</a> -- Thank you to the Goshen, NY, and Florida, NY, Public Libraries for having us on!</p></li>
 <li><p><a href="https://audioboom.com/posts/8594786-melissa-in-the-morning-ghostbusters" target="_blank" style="display:inline">Melissa In the Morning WICC 660/95.9 The Fox/Voice of CT - Interview with Hudson Valley Ghostbusters and Central Connecticut Ghostbusters</a> -- Thank you to Melissa In the Morning for having us on!</p></li>
+<li><p><a href="https://hudsonvalleyghostbusters.org/extra/hvgb_q92_marino_in_the_morning_30_oct_2024.mp3" target="_blank" style="display:inline">HVGB on Q92 FM Marino In the Morning</a> -- Thank you to Chris and Felicia for having us on!</p></li>
 </ul>
