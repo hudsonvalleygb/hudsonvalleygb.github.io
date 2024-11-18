@@ -26,7 +26,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Store', "https://www.redbubble.com/people/hudsonvalleygb/shop"), ('Linktree', "https://linktr.ee/HVGhostbusters"), ('Hudson Valley Slime Time', 'https://www.youtube.com/playlist?list=PLZfgEVgjj4cFUv3wtB3UbJ13rmXrS8tea'),)
+LINKS = (('Store', "https://www.redbubble.com/people/hudsonvalleygb/shop"), ('Linktree', "https://linktr.ee/HVGhostbusters"), ('Hudson Valley Slime Time Podcast', 'https://www.youtube.com/playlist?list=PLZfgEVgjj4cFUv3wtB3UbJ13rmXrS8tea'),)
 
 STATIC_PATHS = [
     'images',
@@ -37,9 +37,15 @@ EXTRA_PATH_METADATA = {
 }
 
 # Social widget
-SOCIAL = (('facebook', 'https://www.facebook.com/HV.Ghostbusters/'),
-          ('instagram', 'https://www.instagram.com/hudsonvalley_ghostbusters/'),
-          ('twitter', 'https://twitter.com/HVGhostbusters'),)
+SOCIAL = (
+    ('facebook', 'https://www.facebook.com/HudsonValley.GB/'),
+    ('instagram', 'https://www.instagram.com/hudsonvalley_ghostbusters/'),
+    #('twitter', 'https://twitter.com/HVGhostbusters'),
+    ('tiktok', 'https://tiktok.com/@hv.ghostbusters'),
+    ('bluesky', 'https://bsky.app/profile/hvghostbusters.bsky.social'),
+    ('youtube', 'https://youtube.com/@hudsonvalleyghostbusters8544'),
+    ('reddit', 'https://reddit.com/u/HudsonValley_GB'),
+)
 
 #PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['photos', 'sitemap', 'pelican_redirect']
