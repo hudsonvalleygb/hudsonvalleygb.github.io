@@ -7,4 +7,4 @@ date: 2020-02-29
 Summary: Homepage of the Hudson Valley Ghostbusters
 description: Homepage of the Hudson Valley Ghostbusters
 
-##[The REAL Winston Zeddemore]({filename}../posts/2024_feb_18.md)##
+##[Hudson Valley Slime Time!](https://www.youtube.com/playlist?list=PLZfgEVgjj4cFUv3wtB3UbJ13rmXrS8tea)##
