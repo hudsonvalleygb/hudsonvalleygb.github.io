@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N8CVR5BTVY"></script>
+    <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-N8CVR5BTVY');
+    </script>
+
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160027971-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -26,10 +35,22 @@
                 <h3>HVGB Menu</h3>
             </div>
             <ul class="list-unstyled components">
-                        <li><a href="https://www.storefrontier.com/hudsonvalleyghostbusters?type&fbclid=IwAR2SpHuv9f6i3nAT1836XsrwDYacWV8ptv6n2F5K93TdygCDdr0bqHdhM8w" target="_blank">Store</a></li>
-                        <li><a href="https://www.facebook.com/HV.Ghostbusters/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://www.redbubble.com/people/hudsonvalleygb/shop" target="_blank">Store</a></li>
+                        <li><a href="https://linktr.ee/HVGhostbusters" target="_blank">Linktree</a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PLZfgEVgjj4cFUv3wtB3UbJ13rmXrS8tea" target="_blank">Hudson Valley Slime Time Podcast</a></li>
+                        <li><a href="https://www.facebook.com/HudsonValley.GB/" target="_blank"><i class="fab fa-facebook"></i></a></li>
                         <li><a href="https://www.instagram.com/hudsonvalley_ghostbusters/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="https://twitter.com/HVGhostbusters" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://tiktok.com/@hv.ghostbusters" target="_blank"><i class="fab fa-tiktok"></i></a></li>
+                        <li><a href="https://bsky.app/profile/hvghostbusters.bsky.social" target="_blank"><i class="fab fa-bluesky"></i></a></li>
+                        <li><a href="https://youtube.com/@hudsonvalleyghostbusters8544" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="https://reddit.com/u/HudsonValley_GB" target="_blank"><i class="fab fa-reddit"></i></a></li>
+                <li>
+                    <form action="https://www.paypal.com/donate" method="post" target="_blank">
+                        <input type="hidden" name="hosted_button_id" value="M2CS8LMCAQ82U" />
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                    </form>
+                </li>
             </ul>
         </nav>
         <div id="content">
@@ -85,6 +106,15 @@
 <li>Dual Proton pack storage</li>
 <li>Multiple ghost trap storage</li>
 </ul>
+  <div class="gallery">
+          <h1></h1>
+              <a href="/photos/gallery/slime_1/01_ecto_pursuit.jpg" title="01_ecto_pursuit.jpg" exif="" caption=""><img src="/photos/gallery/slime_1/01_ecto_pursuitt.jpg"></a>
+              <a href="/photos/gallery/slime_1/02_driver_side.jpg" title="02_driver_side.jpg" exif="" caption=""><img src="/photos/gallery/slime_1/02_driver_sidet.jpg"></a>
+              <a href="/photos/gallery/slime_1/03_front.jpg" title="03_front.jpg" exif="" caption=""><img src="/photos/gallery/slime_1/03_frontt.jpg"></a>
+              <a href="/photos/gallery/slime_1/04_passenger_side.jpg" title="04_passenger_side.jpg" exif="" caption=""><img src="/photos/gallery/slime_1/04_passenger_sidet.jpg"></a>
+              <a href="/photos/gallery/slime_1/05_engine.jpg" title="05_engine.jpg" exif="" caption=""><img src="/photos/gallery/slime_1/05_enginet.jpg"></a>
+              <a href="/photos/gallery/slime_1/06_interior.jpg" title="06_interior.jpg" exif="" caption=""><img src="/photos/gallery/slime_1/06_interiort.jpg"></a>
+  </div>
  </div>
 </div>
             <div class="row" id="caution_footer"><p></p></div>
@@ -110,9 +140,10 @@
             	image: {
             		titleSrc: function(item) {
             			if (item.el.attr('caption') && item.el.attr('exif')) {
-            				return (item.el.attr('caption').replace(/\\n/g, '<br />') +
-            					'<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
-            			}
+                                        return ('<a href="' + item.el.attr('exif') + '" target="_blank">' + item.el.attr('caption').replace(/\\n/g, '<br />') + '</a>');
+            	//			return (item.el.attr('caption').replace(/\\n/g, '<br />') +
+            	//				'<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
+            			} else { return ''; }
             		// return item.el.attr('title') + '<small>' + item.el.attr('exif') + '</small>';
                     // return '<small>' + item.el.attr('exif') + '</small>';
             	} }
