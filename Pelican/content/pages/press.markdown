@@ -36,7 +36,7 @@ summary: News articles and galleries featuring the Hudson Valley Ghostbusters
 <li><p><a href="https://www.youtube.com/watch?v=f2H6N5IYiPo&t=7s" target="_blank" style="display:inline">Who Ya Gonna Call.org on Why We Bust</a> -- Thank you to the Windy City Ghostbusters for having Pete on in his Whoyagonnacall.org capacity!</p></li>
 </ul>
 
-##Podcast and radio appearances:##
+##Podcast and Radio Appearances:##
 <ul>
 <li><p><a href="https://soundcloud.com/user-912529527/steady-geekin-ep-60-geeks-and-ghostbusters" target="_blank" style="display:inline">Steady Geekin Podcast, Episode 60: Geeks and Ghostbusters</a> -- Thank you to Steady Geekin for having us on!</p></li>
 <li><p><a href="https://videogamecrosstalk.com/2019/05/02/ep-034-saratoga-comic-con-spring-2019" target="_blank" style="display:inline">Videogame Crosstalk Podcast, Episode 34: Saratoga ComicCon - Spring 2019</a> -- Thank you to Videogame Crosstalk for having us on!</p></li>
@@ -44,4 +44,9 @@ summary: News articles and galleries featuring the Hudson Valley Ghostbusters
 <li><p><a href="https://clrosari.podbean.com/e/bonus-minisode-interview-with-matthew-bennett-of-the-hv-ghostbusters/" target="_blank" style="display:inline">The FLOGOS LIbrary Podcast Bonus Minisode - Interview with Matthew Bennett of the HV Ghostbusters</a> -- Thank you to the Goshen, NY, and Florida, NY, Public Libraries for having us on!</p></li>
 <li><p><a href="https://audioboom.com/posts/8594786-melissa-in-the-morning-ghostbusters" target="_blank" style="display:inline">Melissa In the Morning WICC 660/95.9 The Fox/Voice of CT - Interview with Hudson Valley Ghostbusters and Central Connecticut Ghostbusters</a> -- Thank you to Melissa In the Morning for having us on!</p></li>
 <li><p><a href="https://hudsonvalleyghostbusters.org/extra/hvgb_q92_marino_in_the_morning_30_oct_2024.mp3" target="_blank" style="display:inline">HVGB on Q92 FM Marino In the Morning</a> -- Thank you to Chris and Felicia for having us on!</p></li>
+</ul>
+
+##Special Editions:##
+<ul style="list-style:none">
+<li><p><object data="https://hudsonvalleyghostbusters.org/extra/Ghostbusters-Day-Zine-2025.pdf" type="application/pdf" width="100%" height="1200px"/><a href="https://hudsonvalleyghostbusters.org/extra/Ghostbusters-Day-Zine-2025.pdf" target="_blank" >WhoYaGonnaCall.org Ghostbusters Day Zine 2025</a></p></li>
 </ul>
