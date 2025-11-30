@@ -43,7 +43,8 @@ summary: News articles and galleries featuring the Hudson Valley Ghostbusters
 <li><p><a href="https://www.iheart.com/podcast/481-clear-view-hudson-v-28550385/episode/clear-view-hv-09-11-2022-guests-tara-101845558/" target="_blank" style="display:inline">Clear View Hudson Valley, September 11, 2022: Hudson Valley Ghostbusters</a> -- Thank you to Uncle Mike and the crew at iHeartMedia in Poughkeepsie for having us on!<p></li>
 <li><p><a href="https://clrosari.podbean.com/e/bonus-minisode-interview-with-matthew-bennett-of-the-hv-ghostbusters/" target="_blank" style="display:inline">The FLOGOS LIbrary Podcast Bonus Minisode - Interview with Matthew Bennett of the HV Ghostbusters</a> -- Thank you to the Goshen, NY, and Florida, NY, Public Libraries for having us on!</p></li>
 <li><p><a href="https://audioboom.com/posts/8594786-melissa-in-the-morning-ghostbusters" target="_blank" style="display:inline">Melissa In the Morning WICC 660/95.9 The Fox/Voice of CT - Interview with Hudson Valley Ghostbusters and Central Connecticut Ghostbusters</a> -- Thank you to Melissa In the Morning for having us on!</p></li>
-<li><p><a href="https://hudsonvalleyghostbusters.org/extra/hvgb_q92_marino_in_the_morning_30_oct_2024.mp3" target="_blank" style="display:inline">HVGB on Q92 FM Marino In the Morning</a> -- Thank you to Chris and Felicia for having us on!</p></li>
+<li><p><a href="https://hudsonvalleyghostbusters.org/extra/hvgb_q92_marino_in_the_morning_30_oct_2024.mp3" target="_blank" style="display:inline">HVGB on Q92 FM Marino In the Morning 30 October 2024</a> -- Thank you to Chris and Felicia for having us on!</p></li>
+<li><p><a href="https://hudsonvaellyghostbusters.org/extra/hvgb_q92_marino_in_the_morning_15_oct_2025.mp3" target="_blank" style="display:inline">HVGB on Q92 FM Marino In the Morning 15 October 2025</a> -- Thank you to Chris for having us on during a busy morning!</p></li>
 </ul>
 
 ##Special Editions:##
