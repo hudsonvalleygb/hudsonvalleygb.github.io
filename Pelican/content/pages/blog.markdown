@@ -1,3 +1,4 @@
+Status: draft
 title: Blog
 slug: blog
 sort_order: 003

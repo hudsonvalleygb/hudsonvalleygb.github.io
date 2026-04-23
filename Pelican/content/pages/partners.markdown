@@ -1,3 +1,4 @@
+Status: draft
 title: Our Partners
 slug: partners
 sort_order: 011

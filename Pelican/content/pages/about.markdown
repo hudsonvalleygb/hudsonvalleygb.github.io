@@ -1,3 +1,4 @@
+Status: draft
 title: About Us
 slug: about
 gallery: {photo}gallery/headshots

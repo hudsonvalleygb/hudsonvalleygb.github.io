@@ -1,3 +1,4 @@
+Status: draft
 Title: Thank You!
 slug: thanks
 date: 2020-03-03

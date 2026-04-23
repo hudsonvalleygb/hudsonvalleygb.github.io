@@ -2,6 +2,7 @@ title: Happy Pride!
 summary: HVGB blog for Pride
 author: Caroline Oehl, HVGB Member
 date: 2022-06-02
+Status: draft
 
 The Hudson Valley Ghostbusters want to wish everyone a Happy Pride Month! With Pride Month comes celebration and joy; however, it's also important to acknowledge the struggle that those in the LGBTQ+ community face, especially BIPOC members of the community. LGBTQ+ people are subject to discrimination and hate, and these are just some of the reasons why Pride is so important. It's important to acknowledge the struggle while still celebrating our authentic selves!
 

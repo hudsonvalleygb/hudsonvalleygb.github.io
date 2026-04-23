@@ -1,3 +1,4 @@
+Status: draft
 title: Join Us!
 slug: join
 sort_order: 099

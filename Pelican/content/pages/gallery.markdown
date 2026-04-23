@@ -1,3 +1,4 @@
+Status: draft
 title: Gallery
 slug: gallery
 gallery: {photo}gallery/photo_gallery

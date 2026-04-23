@@ -2,6 +2,7 @@ title: 2022 Begins!
 summary: Blog post of HVGB looking back and forward
 author: Peter Natale, HVGB Community Outreach Coordinator
 date: 2022-02-02
+Status: draft
 
 Well, here we are again, at the top of another new year! (Well, almost. Sorry we missed January, but there were a lot of personal things going on for the team)
 

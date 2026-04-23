@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'HVGB'
 SITENAME = 'Hudson Valley Ghostbusters'
-SITEURL = 'https://hudsonvalleyghostbusters.org'
-# SITEURL = 'hudsonvalleygb.github.io'
+#SITEURL = 'https://hudsonvalleyghostbusters.org'
+SITEURL = 'hudsonvalleygb.github.io'
 #SITEURL = ''
 SITE_SUMMARY = 'Hudson Valley Ghostbusters, a 501(c)(3) non-profit, dedicated to having fun while doing good'
 SITE_LOGO = 'HVGB_logo_transparent.png'
@@ -75,3 +75,5 @@ PHOTO_RESIZE_JOBS = -1
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+DRAFT_SAVE_AS = ''

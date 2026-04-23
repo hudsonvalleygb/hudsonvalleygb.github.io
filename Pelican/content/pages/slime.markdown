@@ -1,3 +1,4 @@
+Status: draft
 title: Science of Slime!
 slug: slime
 sort_order: 013

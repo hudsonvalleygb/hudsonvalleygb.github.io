@@ -1,3 +1,4 @@
+Status: draft
 title: Press
 slug: press
 sort_order: 012

@@ -2,7 +2,9 @@ title: Summer/Fall 2021
 summary: Blog post of HVGB looking back 
 author: Peter Natale, HVGB Community Outreach Coordinator
 date: 2021-09-27
+Status: draft
 
+Status: draft
 In all the strangeness that has been brought by the pandemic in the world at large, it feels good to get a little bit of normalcy back. We at HVGB have finally had the opportunity to get back out and be with the community, and we've even done some great online work!
 
 Back in August, we did a virtual panel for Greenburgh Public Library's FanCon 2021, called Cosplay for a Cause. We talked about what we do and why we do it, and why it matters. To paraphrase Matthew Bennett, our Executive Director, every time we put on our cosplay gear, we become a better version of ourselves, one that's part of something bigger. It's about the confidence and the ability to do some good while having fun. Later that day, we were were at the Coxsackie Riverside Festival and we raised $280 between shirts and slime for the Columbia-Greene Humane Society, but it was a landmark: It was our first in-person event since November 2019, and wow, did it feel good to get the team active again.

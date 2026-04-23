@@ -1,3 +1,4 @@
+Status: draft
 title: Slime-1
 slug: ecto-pursuit
 sort_order: 006

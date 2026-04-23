@@ -12,7 +12,7 @@
 {% endblock %}
 {% block content %}
 {% if page.title == 'Blog' %}
-<div class="row">
+<!--<div class="row">
     <div class="col-md-8">
         {% for article in articles %}
             <h2><a href="/{{ article.slug }}.html">{{ article.title }}</a></h2>
@@ -22,7 +22,7 @@
             No posts yet!
         {% endfor %}
     </div>
-</div>
+</div>-->
 {% elif page.title == 'Contact Us' %}
     <div class="row">
         <div class="col-md-12">
@@ -62,14 +62,14 @@
             {{ page.content }}
     {% elif page.title == 'Home' and page.content %}
         <div class="col-md-12" style="text-align: center;">
-            <h1>Our Podcast!:</h1>
+            <!--<h1>Our Podcast!:</h1>-->
             <p class="alert"> {{ page.content }}</p>
         {% endif %}
     </div>
 </div>
 {% endif %}
 
-    {% if page.photo_gallery and page.title != 'Home' and page.title != 'About Us' %}
+<!--    {% if page.photo_gallery and page.title != 'Home' and page.title != 'About Us' %}
         <div class="gallery">
     		{% for title, gallery in page.photo_gallery %}
     			<h1>{{ title }}</h1>
@@ -101,9 +101,9 @@
             {% endfor %}
         </div>
     </div>
-
+-->
     {% elif page.photo_gallery and page.title == 'Home' %}
-        {% for title, gallery in page.photo_gallery %}
+<!--        {% for title, gallery in page.photo_gallery %}
             <div class="row">
                 <div class="col-sm-3"></div>
                 <div class="col-sm-6">
@@ -138,7 +138,7 @@
             </a>
         </div> <!-- closes carousel-{{ loop.index }} -->
         </div></div>
-    {% endfor %}
+    {% endfor %}-->
     {% endif %}
     {% endblock %}
     {% block javascript %}
